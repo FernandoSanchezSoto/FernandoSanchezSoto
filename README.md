@@ -5,7 +5,8 @@
 
 - 🗺️ Gran Canaria, Islas Canarias, España.
 - 📚 CFGS Desarrollo de aplicaciones web
-
+- [<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/cf819ecd-ae1f-4e13-be2b-fe7a766b6534" />
+](https://github.com/FernandoSanchezSoto)
 ---
 
 ##### Lenguajes:
