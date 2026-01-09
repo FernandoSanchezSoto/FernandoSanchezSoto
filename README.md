@@ -20,5 +20,5 @@
 ##### FrameWorks:
 
 ![Laravel](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=laravel)
-![Node.js](https://img.shields.io/badge/-NODEJS-000000?style=flat&logo=nodejs)
+![Node.js](https://img.shields.io/badge/-NODE.JS-000000?style=flat&logo=node.js)
 ![Spring](https://img.shields.io/badge/-SPRING-000000?style=flat&logo=spring)
