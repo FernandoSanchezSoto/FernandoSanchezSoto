@@ -22,6 +22,12 @@
 ![Laravel](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=laravel)
 ![Node.js](https://img.shields.io/badge/-NODE.JS-000000?style=flat&logo=node.js)
 
+##### Conocimiento sobre:
+![Flutter](https://img.shields.io/badge/-FLUTTER-000000?style=flat&logo=flutter)
+![Swift](https://img.shields.io/badge/-SWIFT-000000?style=flat&logo=swift)
+![Java](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c++)
+
 ##### Contacto:
 
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/cf819ecd-ae1f-4e13-be2b-fe7a766b6534" />](https://www.linkedin.com/in/fernando-sanchez-soto-947891252/)
