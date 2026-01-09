@@ -1,6 +1,7 @@
 ## Hola, soy [Fernando](https://github.com/FernandoSanchezSoto) 👋
 
-<img width="1584" height="396" alt="Banner de LinkedIn Sencillo Tecnología" src="https://github.com/user-attachments/assets/805ce15d-436c-49c8-9e42-de3ee95f394e" />
+<img width="1584" height="396" alt="Copia de Banner de LinkedIn Sencillo Tecnología" src="https://github.com/user-attachments/assets/cea84b04-0c66-4b45-b6fa-558d310a4c01" />
+
 
 - 🗺️ Gran Canaria, Islas Canarias, España.
 - 📚 CFGS Desarrollo de aplicaciones web
