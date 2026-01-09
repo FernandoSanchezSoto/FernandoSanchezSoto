@@ -4,7 +4,9 @@
 
 
 - 🗺️ Gran Canaria, Islas Canarias, España.
-- 📚 CFGS Desarrollo de aplicaciones web
+- 📚 CFGS Desarrollo de aplicaciones web.
+
+<br>
 [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cf819ecd-ae1f-4e13-be2b-fe7a766b6534" />](https://www.linkedin.com/in/fernando-sanchez-soto-947891252/)
 ---
 
