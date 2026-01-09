@@ -6,7 +6,6 @@
 - 🗺️ Gran Canaria, Islas Canarias, España.
 - 📚 CFGS Desarrollo de aplicaciones web.
 
-[<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cf819ecd-ae1f-4e13-be2b-fe7a766b6534" />](https://www.linkedin.com/in/fernando-sanchez-soto-947891252/)
 ---
 
 ##### Lenguajes:
@@ -22,3 +21,8 @@
 
 ![Laravel](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=laravel)
 ![Node.js](https://img.shields.io/badge/-NODE.JS-000000?style=flat&logo=node.js)
+
+##### Contacto:
+
+-  [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cf819ecd-ae1f-4e13-be2b-fe7a766b6534" />](https://www.linkedin.com/in/fernando-sanchez-soto-947891252/)
+-  [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cf819ecd-ae1f-4e13-be2b-fe7a766b6534" />](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrswDqqqfPwdlpGPxqZFqbRBnmfrDLHtXshfPjMBhcvjCgPWHrzLgjMVsndrBbvZQKDJq)
