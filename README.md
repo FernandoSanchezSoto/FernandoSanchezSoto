@@ -3,8 +3,7 @@
 <img width="1584" height="396" alt="Banner de LinkedIn Sencillo Tecnología" src="https://github.com/user-attachments/assets/805ce15d-436c-49c8-9e42-de3ee95f394e" />
 
 - 🗺️ Gran Canaria, Islas Canarias, España.
-- 👨‍💻 
-- 📚 Desarrollo de aplicaciones web
+- 📚 CFGS Desarrollo de aplicaciones web
 
 ---
 
