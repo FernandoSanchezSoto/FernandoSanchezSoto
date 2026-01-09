@@ -25,4 +25,4 @@
 ##### Contacto:
 
 -  [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cf819ecd-ae1f-4e13-be2b-fe7a766b6534" />](https://www.linkedin.com/in/fernando-sanchez-soto-947891252/)
--  [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7dafd59c-3581-4838-bd75-6af414dc365f" />](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrswDqqqfPwdlpGPxqZFqbRBnmfrDLHtXshfPjMBhcvjCgPWHrzLgjMVsndrBbvZQKDJq)
+-  [<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/7a4044bf-4401-4577-b623-e9511a05b0fa" />](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrswDqqqfPwdlpGPxqZFqbRBnmfrDLHtXshfPjMBhcvjCgPWHrzLgjMVsndrBbvZQKDJq)
