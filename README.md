@@ -1,4 +1,4 @@
-## Hola, soy [Fernando](https://github.com/FernandoSanchezSoto) 👋
+## Hola, soy [Fer](https://github.com/FernandoSanchezSoto) 👋
 
 <img width="1584" height="396" alt="Copia de Banner de LinkedIn Sencillo Tecnología" src="https://github.com/user-attachments/assets/cea84b04-0c66-4b45-b6fa-558d310a4c01" />
 
